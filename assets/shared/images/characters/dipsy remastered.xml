@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dipsy remastered.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dipsy down0000" x="0" y="0" width="673" height="702" frameX="0" frameY="-20" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0001" x="673" y="0" width="672" height="701" frameX="-3" frameY="-20" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0002" x="1345" y="0" width="665" height="701" frameX="-18" frameY="-15" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0003" x="2010" y="0" width="661" height="701" frameX="-34" frameY="-10" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0004" x="2671" y="0" width="662" height="720" frameX="-36" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0005" x="3333" y="0" width="671" height="720" frameX="-29" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0006" x="4004" y="0" width="679" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0007" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0008" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0009" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0010" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0011" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0012" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0013" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0014" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0015" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0016" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0017" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0018" x="5365" y="0" width="681" height="720" frameX="-22" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy down0019" x="4683" y="0" width="682" height="720" frameX="-21" frameY="0" frameWidth="703" frameHeight="722"/>
+	<SubTexture name="dipsy idle0000" x="6046" y="0" width="648" height="720" frameX="0" frameY="-13" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0001" x="6694" y="0" width="647" height="720" frameX="-3" frameY="-13" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0002" x="7341" y="0" width="645" height="720" frameX="-4" frameY="-13" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0003" x="0" y="720" width="646" height="720" frameX="-6" frameY="-13" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0004" x="646" y="720" width="646" height="720" frameX="-8" frameY="-13" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0005" x="1292" y="720" width="643" height="722" frameX="-9" frameY="-12" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0006" x="1935" y="720" width="617" height="728" frameX="-17" frameY="-6" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0007" x="2552" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0008" x="3144" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0009" x="3144" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0010" x="2552" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0011" x="2552" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0012" x="3144" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0013" x="3144" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy idle0014" x="2552" y="720" width="592" height="734" frameX="-25" frameY="0" frameWidth="654" frameHeight="734"/>
+	<SubTexture name="dipsy left0000" x="3736" y="720" width="532" height="783" frameX="-19" frameY="-11" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0001" x="4268" y="720" width="533" height="783" frameX="-19" frameY="-11" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0002" x="4801" y="720" width="534" height="786" frameX="-15" frameY="-8" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0003" x="5335" y="720" width="534" height="786" frameX="-14" frameY="-8" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0004" x="5869" y="720" width="534" height="792" frameX="-16" frameY="-2" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0005" x="6403" y="720" width="535" height="792" frameX="-6" frameY="-2" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0006" x="6938" y="720" width="535" height="793" frameX="-6" frameY="-1" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0007" x="7473" y="720" width="533" height="793" frameX="0" frameY="-1" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0008" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0009" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0010" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0011" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0012" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0013" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0014" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0015" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0016" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0017" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0018" x="533" y="1513" width="535" height="796" frameX="-7" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy left0019" x="0" y="1513" width="533" height="796" frameX="-8" frameY="0" frameWidth="552" frameHeight="796"/>
+	<SubTexture name="dipsy right0000" x="1068" y="1513" width="827" height="802" frameX="-3" frameY="0" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0001" x="1895" y="1513" width="817" height="793" frameX="-4" frameY="-9" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0002" x="2712" y="1513" width="823" height="778" frameX="-1" frameY="-24" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0003" x="3535" y="1513" width="824" height="766" frameX="0" frameY="-36" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0004" x="4359" y="1513" width="825" height="757" frameX="-2" frameY="-45" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0005" x="5184" y="1513" width="822" height="742" frameX="-2" frameY="-60" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0006" x="6006" y="1513" width="822" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0007" x="6828" y="1513" width="821" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0008" x="0" y="2315" width="820" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0009" x="820" y="2315" width="820" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0010" x="1640" y="2315" width="828" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0011" x="2468" y="2315" width="829" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0012" x="3297" y="2315" width="831" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0013" x="4128" y="2315" width="699" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0014" x="4827" y="2315" width="698" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0015" x="4827" y="2315" width="698" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0016" x="4128" y="2315" width="699" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0017" x="4128" y="2315" width="699" height="734" frameX="-2" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0018" x="4827" y="2315" width="698" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy right0019" x="4827" y="2315" width="698" height="734" frameX="-3" frameY="-68" frameWidth="833" frameHeight="802"/>
+	<SubTexture name="dipsy up0000" x="5525" y="2315" width="609" height="854" frameX="-22" frameY="0" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0001" x="6134" y="2315" width="609" height="854" frameX="-22" frameY="0" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0002" x="6743" y="2315" width="606" height="838" frameX="-17" frameY="-11" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0003" x="7349" y="2315" width="606" height="838" frameX="-17" frameY="-11" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0004" x="0" y="3169" width="627" height="793" frameX="-6" frameY="-42" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0005" x="627" y="3169" width="629" height="791" frameX="-5" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0006" x="1256" y="3169" width="630" height="791" frameX="-4" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0007" x="1886" y="3169" width="632" height="791" frameX="-2" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0008" x="2518" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0009" x="2518" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0010" x="3151" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0011" x="3151" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0012" x="2518" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0013" x="2518" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0014" x="3784" y="3169" width="634" height="791" frameX="0" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0015" x="3784" y="3169" width="634" height="791" frameX="0" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0016" x="4418" y="3169" width="634" height="791" frameX="0" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0017" x="4418" y="3169" width="634" height="791" frameX="0" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0018" x="3151" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy up0019" x="3151" y="3169" width="633" height="791" frameX="-1" frameY="-43" frameWidth="634" frameHeight="854"/>
+	<SubTexture name="dipsy-alt0000" x="5052" y="3169" width="691" height="734"/>
+	<SubTexture name="dipsy-alt0001" x="5743" y="3169" width="691" height="734"/>
+	<SubTexture name="dipsy-alt0002" x="6434" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0003" x="7124" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0004" x="7124" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0005" x="0" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0006" x="689" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0007" x="1378" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0008" x="2067" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0009" x="2756" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0010" x="3445" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0011" x="4134" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0012" x="5052" y="3169" width="691" height="734"/>
+	<SubTexture name="dipsy-alt0013" x="5743" y="3169" width="691" height="734"/>
+	<SubTexture name="dipsy-alt0014" x="6434" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0015" x="7124" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0016" x="7124" y="3169" width="690" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0017" x="0" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0018" x="689" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0019" x="1378" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0020" x="2067" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0021" x="2756" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0022" x="3445" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+	<SubTexture name="dipsy-alt0023" x="4134" y="3962" width="689" height="734" frameX="-1" frameY="0" frameWidth="691" frameHeight="734"/>
+</TextureAtlas>
