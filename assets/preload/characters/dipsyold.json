@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Eggman_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Eggman_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				168
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Eggman_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Eggman_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Eggman_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				31
+			],
+			"anim": "Laugh",
+			"fps": 36,
+			"name": "Eggman_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Robotnik Soul",
+	"position": [
+		30,
+		260
+	],
+	"healthicon": "dipzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		0
+	],
+	"camera_position": [
+		-50,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

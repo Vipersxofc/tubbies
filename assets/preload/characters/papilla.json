@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "papilla dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/papilla",
+	"position": [
+		100,
+		500
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		194
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

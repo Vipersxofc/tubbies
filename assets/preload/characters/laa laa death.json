@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "laa laa down"
+		},
+		{
+			"offsets": [
+				57,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "laa laa Left"
+		},
+		{
+			"offsets": [
+				-11,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "laa laa right"
+		},
+		{
+			"offsets": [
+				-57,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "laa laa up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "laa laa Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/laa laa remastered",
+	"position": [
+		-260,
+		-340
+	],
+	"healthicon": "laa laa icon new",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		191,
+		0
+	],
+	"camera_position": [
+		275,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

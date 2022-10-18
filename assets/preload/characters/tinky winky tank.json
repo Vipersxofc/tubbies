@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-21,
+				-49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-70,
+				-42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-28,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-89,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				284,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "punch",
+			"loop": false,
+			"name": "golpe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tinky winky tank",
+	"position": [
+		-280,
+		-260
+	],
+	"healthicon": "tinky-winky",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		194
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
