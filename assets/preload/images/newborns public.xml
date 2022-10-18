@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newborns public.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="newborns idle0000" x="0" y="0" width="2390" height="531" frameX="0" frameY="-27" frameWidth="2390" frameHeight="559"/>
+	<SubTexture name="newborns idle0001" x="0" y="0" width="2390" height="531" frameX="0" frameY="-27" frameWidth="2390" frameHeight="559"/>
+	<SubTexture name="newborns idle0002" x="0" y="531" width="2360" height="550" frameX="-15" frameY="-9" frameWidth="2390" frameHeight="559"/>
+	<SubTexture name="newborns idle0003" x="0" y="1081" width="2344" height="559" frameX="-23" frameY="0" frameWidth="2390" frameHeight="559"/>
+	<SubTexture name="newborns idle0004" x="0" y="1081" width="2344" height="559" frameX="-23" frameY="0" frameWidth="2390" frameHeight="559"/>
+	<SubTexture name="newborns idle0005" x="0" y="1081" width="2344" height="559" frameX="-23" frameY="0" frameWidth="2390" frameHeight="559"/>
+</TextureAtlas>
