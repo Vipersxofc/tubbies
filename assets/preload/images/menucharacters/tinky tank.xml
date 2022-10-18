@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tinky tank.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tinky tank0000" x="0" y="0" width="1014" height="740" frameX="-10" frameY="-9" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0001" x="1014" y="0" width="1014" height="738" frameX="-10" frameY="-11" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0002" x="2028" y="0" width="1014" height="737" frameX="-10" frameY="-12" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0003" x="3042" y="0" width="1013" height="737" frameX="-10" frameY="-11" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0004" x="0" y="740" width="1011" height="736" frameX="-7" frameY="-6" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0005" x="1011" y="740" width="1011" height="734" frameX="-4" frameY="-1" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0006" x="2022" y="740" width="1014" height="735" frameX="-2" frameY="0" frameWidth="1024" frameHeight="749"/>
+	<SubTexture name="tinky tank0007" x="3036" y="740" width="1018" height="734" frameX="0" frameY="-1" frameWidth="1024" frameHeight="749"/>
+</TextureAtlas>

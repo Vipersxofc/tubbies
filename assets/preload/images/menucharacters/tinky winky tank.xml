@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tinky winky tank.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1782" height="1169" frameX="0" frameY="-85" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0001" x="1782" y="0" width="1792" height="1171" frameX="0" frameY="-83" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0002" x="3574" y="0" width="1799" height="1182" frameX="-2" frameY="-73" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0003" x="5373" y="0" width="1805" height="1228" frameX="-5" frameY="-29" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0004" x="0" y="1228" width="1812" height="1254" frameX="-6" frameY="-3" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0005" x="1812" y="1228" width="1812" height="1257" frameX="-6" frameY="0" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0006" x="3624" y="1228" width="1812" height="1257" frameX="-6" frameY="0" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0007" x="5436" y="1228" width="1812" height="1257" frameX="-6" frameY="0" frameWidth="1818" frameHeight="1257"/>
+	<SubTexture name="idle0008" x="0" y="2485" width="1812" height="1257" frameX="-6" frameY="0" frameWidth="1818" frameHeight="1257"/>
+</TextureAtlas>

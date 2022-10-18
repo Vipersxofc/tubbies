@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "tinky winky tank",
+	"position": [
+		403,
+		440
+	],
+	"scale": 0.35,
+	"confirm_anim": "M Dad Idle"
+}
